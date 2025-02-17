@@ -1,0 +1,34 @@
+body{
+    font-family: Inter;
+}
+
+main{
+    margin: 10px;
+}
+
+.language-javascript{
+    font-family: Source Code Pro;
+}
+
+.intro{
+    padding: 10px;
+}
+
+.algorithm{
+    padding: 20px;
+}
+
+pre{
+    background-color: #c9d1d1;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: content-box;
+    width: 45%;
+}
+
+footer{
+    padding: 20px;
+    background-color: #231161;
+    color: #C99700;
+    font-weight: bold;
+}
